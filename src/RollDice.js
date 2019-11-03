@@ -33,6 +33,7 @@ class RollDice extends Component {
                     <Die face={this.state.die2} />
                 </div>
                 <button onClick = {this.roll}>Roll Dice</button>
+                <i class="fas fa-angle-double-up"></i>
             </div>
         )
     }

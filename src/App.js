@@ -6,7 +6,6 @@ function App() {
   return (
     <div className="App">
       <RollDice />
-      <i class="fab fa-amazon"></i>
     </div>
   );
 }
